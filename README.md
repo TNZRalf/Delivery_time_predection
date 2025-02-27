@@ -1,5 +1,6 @@
 # Delivery_time_predection
 Predict delivery times using an LSTM. Data analysis &amp; ML model. Optimizes logistics.
+
 Overview
 
 This project focuses on developing a machine learning model to predict delivery times based on various factors. Leveraging a dataset of delivery operations, this repository implements an LSTM (Long Short-Term Memory) neural network to accurately forecast how long a delivery will take. This solution can optimize logistics, enhance customer satisfaction, and provide insights into the factors that most affect delivery efficiency.
