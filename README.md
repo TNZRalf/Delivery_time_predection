@@ -56,4 +56,4 @@ Contributions to this project are welcome! If you have ideas for improvements, n
 
 License
 
-Copyright (c) [2025] [Zakaria Tanani]
+Copyright (c) 2025 Zakaria Tanani
