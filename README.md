@@ -27,11 +27,17 @@ The training included stochastic gradient decent with 128 batch_size over 10 epo
 How to Use
 
 Clone the Repository: git clone [repository URL]
+
 Install Dependencies: pip install -r requirements.txt
+
 Run the Notebooks: Execute the Jupyter Notebooks in the repository to reproduce the data preprocessing, model training, and evaluation steps.
+
 Load the Data: The data used in this project is the 'deliverytime.txt' file.
+
 Predict: Use the real-time prediction feature by running the cells at the end of the notebook, and providing the required inputs.
+
 Save: save the model using the method provided.
+
 Potential improvements
 
 Optimise the model by increasing the number of epochs and the number of layer.
